@@ -8995,7 +8995,7 @@ nc(), (bu.exports = ge);
 var Rd = bu.exports,
   Bu = Rd;
 (Wl.createRoot = Bu.createRoot), (Wl.hydrateRoot = Bu.hydrateRoot);
-const jd = "assets/react-35ef61ed.svg";
+const jd = "react-35ef61ed.svg";
 function Od() {
   return P.jsxs("header", {
     className: "app-header",
